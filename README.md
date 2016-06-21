@@ -38,7 +38,7 @@ Test more stuff together with this compiler version
 
 ## Contributing
 
-1. Fork it ( https://github.com/hyronx/crystal-lib/fork )
+1. Fork it ( https://github.com/hyronx/crystal-shared-lib/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
