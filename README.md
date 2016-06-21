@@ -1,6 +1,6 @@
 # crystal-shared-lib
 
-A very simple compilable library to test https://github.com/hyronx/crystal/tree/feature/shared-library
+A very simple compilable Crystal library to test https://github.com/hyronx/crystal/tree/feature/shared-library
 
 ## Usage
 
@@ -8,7 +8,7 @@ A very simple compilable library to test https://github.com/hyronx/crystal/tree/
 
 ```
 git clone https://github.com/hyronx/crystal && cd crystal
-git checkout -b feature/shared-library
+git checkout -b feature/shared_library
 make
 cd ..
 ```
