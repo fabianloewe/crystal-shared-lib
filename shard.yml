@@ -1,0 +1,8 @@
+name: crystal-shared-lib
+type: lib
+version: 0.1.0
+
+authors:
+  -  <hyronx@outlook.com>
+
+license: MIT
