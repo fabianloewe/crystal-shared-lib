@@ -1,6 +1,6 @@
 require "./crystal-shared-lib/*"
 
-@[Export]
+@[Export] # This is an inofficial attribute
 module CrystalShared
   def test
     puts "Hi from #{self}"
