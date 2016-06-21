@@ -13,7 +13,7 @@ make
 cd ..
 ```
 NOTE: My laptop wasn't even able to finish the compilation because it seems to be too slow.
-      You should use a computer with more then 3 core at 1GHz I suppose... 
+      You should use a computer with more then 3 cores at 1GHz I suppose... 
 
 ### Step 2: Compile this code
 
